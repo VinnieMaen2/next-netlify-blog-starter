@@ -12,11 +12,11 @@ export default function Header() {
             <a>About</a>
           </Link>
           <Link href="https://www.reddit.com/user/Foreign-Tailor3040" rel='me'>
-            <a></a>
+            <a rel="me"></a>
           </Link>
-          <Link href="https://github.com/vinniemaen2" rel="me"><a></a></Link>
+          <Link href="https://github.com/vinniemaen2" rel="me"><a rel="me"></a></Link>
 
-          <link rel='webmention' href='https://www.reddit.com/user/Foreign-Tailor3040/' />
+          {/*<link rel='webmention' href='https://www.reddit.com/user/Foreign-Tailor3040/' />*/}
         </nav>
       </header>
       <style jsx>{`
