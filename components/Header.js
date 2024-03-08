@@ -14,7 +14,7 @@ export default function Header() {
           <Link href="https://www.reddit.com/user/Foreign-Tailor3040" rel='me'>
             <a></a>
           </Link>
-          <Link href="https://github.com/vinniemaen2" rel="me"></Link>
+          <Link href="https://github.com/vinniemaen2" rel="me"><a></a></Link>
 
           <link rel='webmention' href='https://www.reddit.com/user/Foreign-Tailor3040/' />
         </nav>
