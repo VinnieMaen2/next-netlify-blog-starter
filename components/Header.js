@@ -11,6 +11,9 @@ export default function Header() {
           <Link href="/about">
             <a>About</a>
           </Link>
+          <Link href='https://www.reddit.com/user/Foreign-Tailor3040/'>
+            <a></a>
+          </Link>
         </nav>
       </header>
       <style jsx>{`
